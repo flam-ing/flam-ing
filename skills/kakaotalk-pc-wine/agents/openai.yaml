@@ -1,0 +1,3 @@
+interface:
+  display_name: "KakaoTalk PC on Wine"
+  short_description: "Install and run Windows KakaoTalk on Linux with Wine 10.0"
